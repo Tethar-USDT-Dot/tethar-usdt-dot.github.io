@@ -28,7 +28,7 @@
 
 ### 📜 Contract Address
 
-0x73dAD96ae4B1572a5C7c4a0616a5bDc07295B129
+>  `0x73dAD96ae4B1572a5C7c4a0616a5bDc07295B129`  
 
 ---
 
