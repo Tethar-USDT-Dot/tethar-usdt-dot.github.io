@@ -1,6 +1,6 @@
 # Whitepaper: Tethar USDT• (USDT Dot)
 
-**Version 2.0** | **BEP-20 Stable Asset on BNB Smart Chain**
+**Version 1.0** | **BEP-20 Stable Asset on BNB Smart Chain**
 
 ---
 
