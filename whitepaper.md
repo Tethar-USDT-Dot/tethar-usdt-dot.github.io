@@ -84,13 +84,12 @@ We are committed to sustainability by operating on the BNB Smart Chain, which us
 ## 5. Tokenomics
 
 ### 5.1 Token Details
-| Feature | Details |
-| :--- | :--- |
-| **Name** | Tethar USDT• |
-| **Symbol** | USDT• |
-| **Decimals** | 18 |
-| **Total Supply** | Dynamic (starts at 10,000,000; adjustable via mint/burn) |
-| **Initial Cap** | 1,000,000 units (Phase 1) |
+
+* **Name:** Tethar USDT•
+* **Symbol:** `USDT•`
+* **Decimals:** `18`
+* **Total Supply:** Dynamic (starts at 10,000,000; adjustable via mint/burn)
+* **Initial Cap:** 1,000,000 units (Phase 1)
 
 ### 5.2 Economic Model
 * **Issuance:** 100% of the circulating supply is intended to be minted against deposited reserves.
